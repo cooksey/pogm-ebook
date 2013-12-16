@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 
+              'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="http://www.gutenberg.org/ebooks/11283" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="Project Gutenberg EPUB-Maker v0.02 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Plays of Gods and Men</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="np-1" playOrder="1">
+      <navLabel>
+        <text>*** START: FULL LICENSE ***</text>
+      </navLabel>
+      <content src="www.gutenberg.org@files@11283@11283-8-1.html#id02640"/>
+    </navPoint>
+    <navPoint id="np-2" playOrder="2">
+      <navLabel>
+        <text>Section 1. General Terms of Use and Redistributing Project Gutenberg-tm electronic works</text>
+      </navLabel>
+      <content src="www.gutenberg.org@files@11283@11283-8-1.html#id02643"/>
+      <navPoint id="np-3" playOrder="3">
+        <navLabel>
+          <text>Section 2. Information about the Mission of Project Gutenberg-tm</text>
+        </navLabel>
+        <content src="www.gutenberg.org@files@11283@11283-8-1.html#id02670"/>
+        <navPoint id="np-4" playOrder="4">
+          <navLabel>
+            <text>Section 3. Information about the Project Gutenberg Literary Archive Foundation</text>
+          </navLabel>
+          <content src="www.gutenberg.org@files@11283@11283-8-1.html#id02673"/>
+        </navPoint>
+        <navPoint id="np-5" playOrder="5">
+          <navLabel>
+            <text>Section 5. General Information About Project Gutenberg-tm electronic works.</text>
+          </navLabel>
+          <content src="www.gutenberg.org@files@11283@11283-8-1.html#id02683"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+
+    <navPoint id="laughter_of_the_gods" playOrder="6">
+      <navLabel>
+	<text>The Laughter of the Gods</text>
+      </navLabel>
+      <content src="laughter_of_the_gods.html#id00015"/>
+
+      <navPoint id="laughter_of_the_gods_1" playOrder="7">
+	<navLabel>
+	  <text>Act I</text>
+	</navLabel>
+	<content src="laughter_of_the_gods.html#id00019"/>
+      </navPoint>
+
+      <navPoint id="laughter_of_the_gods_2" playOrder="8">
+	<navLabel>
+	  <text>Act II</text>
+	</navLabel>
+	<content src="laughter_of_the_gods.html#laughter_of_the_gods_2"/>
+      </navPoint>
+
+      <navPoint id="laughter_of_the_gods_3" playOrder="9">
+	<navLabel>
+	  <text>Act III</text>
+	</navLabel>
+	<content src="laughter_of_the_gods.html#laughter_of_the_gods_3"/>
+      </navPoint>
+    </navPoint>
+
+    <navPoint id="queens_enemies" playOrder="10">
+      <navLabel>
+	<text>The Queen's Enemies</text>
+      </navLabel>
+      <content src="queens_enemies.html#title"/>
+    </navPoint>
+
+    <navPoint id="tents_of_the_arabs" playOrder="11">
+      <navLabel>
+	<text>The Tents of the Arabs</text>
+      </navLabel>
+      <content src="tents_of_the_arabs.html#title"/>
+      <navPoint id="tents_of_the_arabs_1" playOrder="12">
+	<navLabel>
+	  <text>Act I</text>
+	</navLabel>
+	<content src="tents_of_the_arabs.html#act1"/>
+      </navPoint>
+      <navPoint id="tents_of_the_arabs_2" playOrder="13">
+	<navLabel>
+	  <text>Act II</text>
+	</navLabel>
+	<content src="tents_of_the_arabs.html#act2"/>
+      </navPoint>
+    </navPoint>
+
+    <navPoint id="night_at_an_inn" playOrder="14">
+      <navLabel>
+	<text>A Night at an Inn</text>
+      </navLabel>
+      <content src="night_at_an_inn.html#title"/>
+    </navPoint>
+
+  </navMap>
+</ncx>

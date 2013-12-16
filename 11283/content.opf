@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="id">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id" opf:scheme="URI">http://www.gutenberg.org/ebooks/11283</dc:identifier>
+    <dc:creator opf:file-as="Dunsany, Edward John Moreton Drax Plunkett, Baron">Baron Edward John Moreton Drax Plunkett Dunsany</dc:creator>
+    <dc:title>Plays of Gods and Men</dc:title>
+    <dc:language xsi:type="dcterms:RFC4646">en</dc:language>
+    <dc:date opf:event="publication">2004-02-01</dc:date>
+    <dc:date opf:event="conversion">2010-02-15T15:00:17.401335+00:00</dc:date>
+    <dc:source>http://www.gutenberg.org/files/11283/11283-8.txt</dc:source>
+    <meta content="item2" name="cover"/>
+  </metadata>
+  <manifest>
+    <item href="pgepub.css" id="item1" media-type="text/css"/>
+    <item href="www.gutenberg.org@files@11283@11283-8-0.html" id="id00000" media-type="application/xhtml+xml"/>
+    <item href="laughter_of_the_gods.html" id="laughter_of_the_gods" media-type="application/xhtml+xml"/>
+    <item href="queens_enemies.html" id="queens_enemies" media-type="application/xhtml+xml"/>
+    <item href="tents_of_the_arabs.html" id="tents_of_the_arabs" media-type="application/xhtml+xml"/>
+    <item href="night_at_an_inn.html" id="night_at_an_inn" media-type="application/xhtml+xml"/>
+    <item href="www.gutenberg.org@files@11283@11283-8-1.html" id="id02355" media-type="application/xhtml+xml"/>
+    <item href="cover.jpg" id="item2" media-type="image/jpeg"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id00000" linear="yes"/>
+    <itemref idref="laughter_of_the_gods" linear="yes"/>
+    <itemref idref="queens_enemies" linear="yes"/>
+    <itemref idref="tents_of_the_arabs" linear="yes"/>
+    <itemref idref="night_at_an_inn" linear="yes"/>
+    <itemref idref="id02355" linear="yes"/>
+  </spine>
+  <guide>
+    <reference href="cover.jpg" type="cover" title="Cover Image"/>
+  </guide>
+</package>
