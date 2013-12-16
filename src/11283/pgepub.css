@@ -37,3 +37,8 @@ p.scene-action {
 .character-name {
     font-variant: small-caps;
 }
+ul.dramatis-personae {
+    list-style-type: none;
+    margin-left: 0px;
+    padding-left: 0px;
+}
