@@ -14,58 +14,35 @@
     <text>Plays of Gods and Men</text>
   </docTitle>
   <navMap>
-    <navPoint id="np-1" playOrder="1">
+
+    <navPoint id="preface" playOrder="0">
       <navLabel>
-        <text>*** START: FULL LICENSE ***</text>
+	<text>Preface</text>
       </navLabel>
-      <content src="www.gutenberg.org@files@11283@11283-8-1.html#id02640"/>
-    </navPoint>
-    <navPoint id="np-2" playOrder="2">
-      <navLabel>
-        <text>Section 1. General Terms of Use and Redistributing Project Gutenberg-tm electronic works</text>
-      </navLabel>
-      <content src="www.gutenberg.org@files@11283@11283-8-1.html#id02643"/>
-      <navPoint id="np-3" playOrder="3">
-        <navLabel>
-          <text>Section 2. Information about the Mission of Project Gutenberg-tm</text>
-        </navLabel>
-        <content src="www.gutenberg.org@files@11283@11283-8-1.html#id02670"/>
-        <navPoint id="np-4" playOrder="4">
-          <navLabel>
-            <text>Section 3. Information about the Project Gutenberg Literary Archive Foundation</text>
-          </navLabel>
-          <content src="www.gutenberg.org@files@11283@11283-8-1.html#id02673"/>
-        </navPoint>
-        <navPoint id="np-5" playOrder="5">
-          <navLabel>
-            <text>Section 5. General Information About Project Gutenberg-tm electronic works.</text>
-          </navLabel>
-          <content src="www.gutenberg.org@files@11283@11283-8-1.html#id02683"/>
-        </navPoint>
-      </navPoint>
+      <content src="www.gutenberg.org@files@11283@11283-8-0.html#preface"/>
     </navPoint>
 
-    <navPoint id="laughter_of_the_gods" playOrder="6">
+    <navPoint id="laughter_of_the_gods" playOrder="1">
       <navLabel>
 	<text>The Laughter of the Gods</text>
       </navLabel>
       <content src="laughter_of_the_gods.html#id00015"/>
 
-      <navPoint id="laughter_of_the_gods_1" playOrder="7">
+      <navPoint id="laughter_of_the_gods_1" playOrder="2">
 	<navLabel>
 	  <text>Act I</text>
 	</navLabel>
 	<content src="laughter_of_the_gods.html#id00019"/>
       </navPoint>
 
-      <navPoint id="laughter_of_the_gods_2" playOrder="8">
+      <navPoint id="laughter_of_the_gods_2" playOrder="3">
 	<navLabel>
 	  <text>Act II</text>
 	</navLabel>
 	<content src="laughter_of_the_gods.html#laughter_of_the_gods_2"/>
       </navPoint>
 
-      <navPoint id="laughter_of_the_gods_3" playOrder="9">
+      <navPoint id="laughter_of_the_gods_3" playOrder="4">
 	<navLabel>
 	  <text>Act III</text>
 	</navLabel>
@@ -73,25 +50,25 @@
       </navPoint>
     </navPoint>
 
-    <navPoint id="queens_enemies" playOrder="10">
+    <navPoint id="queens_enemies" playOrder="5">
       <navLabel>
 	<text>The Queen's Enemies</text>
       </navLabel>
       <content src="queens_enemies.html#title"/>
     </navPoint>
 
-    <navPoint id="tents_of_the_arabs" playOrder="11">
+    <navPoint id="tents_of_the_arabs" playOrder="6">
       <navLabel>
 	<text>The Tents of the Arabs</text>
       </navLabel>
       <content src="tents_of_the_arabs.html#title"/>
-      <navPoint id="tents_of_the_arabs_1" playOrder="12">
+      <navPoint id="tents_of_the_arabs_1" playOrder="7">
 	<navLabel>
 	  <text>Act I</text>
 	</navLabel>
 	<content src="tents_of_the_arabs.html#act1"/>
       </navPoint>
-      <navPoint id="tents_of_the_arabs_2" playOrder="13">
+      <navPoint id="tents_of_the_arabs_2" playOrder="8">
 	<navLabel>
 	  <text>Act II</text>
 	</navLabel>
@@ -99,11 +76,18 @@
       </navPoint>
     </navPoint>
 
-    <navPoint id="night_at_an_inn" playOrder="14">
+    <navPoint id="night_at_an_inn" playOrder="9">
       <navLabel>
 	<text>A Night at an Inn</text>
       </navLabel>
       <content src="night_at_an_inn.html#title"/>
+    </navPoint>
+
+    <navPoint id="license" playOrder="10">
+      <navLabel>
+	<text>Project Gutenberg License</text>
+      </navLabel>
+      <content src="www.gutenberg.org@files@11283@11283-8-1.html#license"/>
     </navPoint>
 
   </navMap>
